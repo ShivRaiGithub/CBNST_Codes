@@ -1,10 +1,6 @@
 
 #include<stdio.h>
 int main(){
-   printf("Name :- Shivang Mahendra\n");
-   printf("Section :- A\n");
-   printf("Class Roll No :- 59\n");
-   printf("Univ. Roll No :- 2019103\n\n");
    int r;
    scanf("%d", &r);
    float aug[r][r+1];

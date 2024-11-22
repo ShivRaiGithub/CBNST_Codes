@@ -2,10 +2,6 @@
 #include<stdio.h>
 #include<math.h>
 int main(){
-   printf("Name :- Shivang Mahendra\n");
-   printf("Section :- A\n");
-   printf("Class Roll No :- 59\n");
-   printf("Univ. Roll No :- 2019103\n\n");
    double a, b, c;
    printf("Enter coefficient of x^2 : ");
    scanf("%lf",&a);

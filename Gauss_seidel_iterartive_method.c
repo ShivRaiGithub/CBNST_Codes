@@ -4,10 +4,6 @@
 #include<math.h>
 #define E 0.0001
 int main(){
-   printf("Name :- Shivang Mahendra\n");
-   printf("Section :- A\n");
-   printf("Class Roll No :- 59\n");
-   printf("Univ. Roll No :- 2019103\n\n");
    int r, iterations = 0;
    scanf("%d",&r);
    float a[r][r+1];

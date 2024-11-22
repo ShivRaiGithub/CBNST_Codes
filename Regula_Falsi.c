@@ -7,10 +7,6 @@ double solve(double x){
    return (x * x * x) - (3 * x) - 5;
 }
 int main(){
-   printf("Name :- Shivang Mahendra\n");
-   printf("Section :- A\n");
-   printf("Class Roll No :- 59\n");
-   printf("Univ. Roll No :- 2019103\n\n");
    double x0, x1, x2, f0, f1, f2, temp = -1; 
    printf("Enter 2 roots : ");
    while(1){

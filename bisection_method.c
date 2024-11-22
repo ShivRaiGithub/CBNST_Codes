@@ -10,10 +10,6 @@ double solve(double x){
 // }
 int main()
 {
-   printf("Name :- Shivang Mahendra\n");
-   printf("Section :- A\n");
-   printf("Class Roll No :- 59\n");
-   printf("Univ. Roll No :- 2019103\n\n");
    double a = 0.0, b = 1.0;
    double curr = 0.0, prev = 0.0;
    // curr = solve(b);
